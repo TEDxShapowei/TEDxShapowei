@@ -478,7 +478,7 @@ Restaurant menu style
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-  border: 5px solid rgb(0, 0, 0);
+  /* border: 5px solid rgb(0, 0, 0); */
   background-color: #000;
   margin-left: auto;
   margin-right: auto;
