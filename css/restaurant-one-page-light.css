@@ -125,6 +125,12 @@ h1, h1, h3, h4, h5, h6 {
   color: #fff;
   font-size: 35px; }
 
+.navbar-default .navbar-brand .tedx {
+  color: #fC2A1D;
+  font-size: 25px; }
+  .navbar-default .navbar-brand .tedx-event {
+  font-size: 13px; }
+
 .navbar-default .navbar-brand:hover {
   color: #fff; }
 
@@ -152,6 +158,12 @@ h1, h1, h3, h4, h5, h6 {
 .navbar-default.shrink .navbar-brand {
   color: #000;
   font-size: 30px; }
+
+.navbar-default.shrink .navbar-brand .tedx {
+  color: #fC2A1D;
+  font-size: 20px; }
+.navbar-default.shrink .navbar-brand .tedx-event {
+  font-size: 10px; }  
 
 .navbar-default.shrink .navbar-brand:hover {
   color: #000; }
